@@ -7,6 +7,7 @@
 2. [ Walkthrough. ](#video)
 3. [ Backend. ](#ref)
 4. [ Code Style. ](#style)
+5. [ Technology. ](#tech)
 
 <a name="moti"></a>
 ## 1. Motivation
@@ -32,6 +33,11 @@ Coming Soon.
 ## 4. Code Style
 
 <!-- ESLint: Airbnb Style -->
+
+<a name="tech"></a>
+## 5. Technology
+
+1. React
 
 ![1](https://user-images.githubusercontent.com/61441606/142748758-98dbd39e-fd59-4b0b-8809-49e2716dcd32.png)
 
