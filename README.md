@@ -4,11 +4,22 @@
 
 ![TapChef Logo](https://i.imgur.com/XIFIH1Q.png)
 1. [ Motivation. ](#moti)
+2. [ Walkthrough. ](#video)
 
 <a name="moti"></a>
 ## 1. Motivation
 
 My goal is to help eliminate food waste by handling the tedious legwork that makes meal-prep a hassle. TapChef is a recipe app which provides users with meal prep recommendations based on similarities in ingredients in their collection of recipes.
+
+<a name="video"></a>
+## 2. Walkthrough
+
+Coming Soon.
+
+
+<!-- https://user-images.githubusercontent.com/61441606/142748492-dec5a8a1-fe45-4b26-afc5-a13f33c02fa2.mp4 -->
+
+
 
 ![1](https://user-images.githubusercontent.com/61441606/142748758-98dbd39e-fd59-4b0b-8809-49e2716dcd32.png)
 
