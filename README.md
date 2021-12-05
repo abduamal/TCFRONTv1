@@ -9,6 +9,7 @@
 4. [ Code Style. ](#style)
 5. [ Technology. ](#tech)
 6. [ Features. ](#now)
+7. [ Stretch Goals. ](#stretch)
 
 <a name="moti"></a>
 ## 1. Motivation
@@ -44,6 +45,11 @@ Coming Soon.
 ## 6. Features
 
 Coming Soon.
+
+<a name="stretch"></a>
+## 7. Stretch Goals
+
+All of them.
 
 ![1](https://user-images.githubusercontent.com/61441606/142748758-98dbd39e-fd59-4b0b-8809-49e2716dcd32.png)
 
