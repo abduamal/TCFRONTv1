@@ -4,3 +4,8 @@ import axios from 'axios';
 
 function RecipeFetch(){
   const {recipe, setRecipe} = useState([])
+
+  useEffect(() => {
+    axios.get("http://localhost:4000/api/recipes")
+  })
+}
